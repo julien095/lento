@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ht">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lento litteraire</title>
+  <link rel="stylesheet" href="style.css">
+ 
+</head>
+<body>
+
+      <header class="navbar">
+	       <div class="logo">
+		      <img src="https://www.facebook.com/photo/?fbid=24001551149486800&set=pob.100001757502591" alt="ogo">
+		   <span>Lento litteraire</span>
+		   </div>
+	           <nav class="menu">    
+			       <ul>
+				      <li><a href="regard biographique">regard biographique</a></li>
+				      <li><a href="Articles">Articles</a></li>
+				      <li><a href="A propos">A propos</a></li>
+					  <li><a href="contact">contact</a></li>
+					  <li><a href="faire un don" class="don">Faire un Don</a></li>
+				   </ul>
+			   
+			   
+			   
+			   
+			   
+			   
+			   
+			   
+			   </nav>
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  </header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+<footer>
+
+
+</footer>
+</html>
