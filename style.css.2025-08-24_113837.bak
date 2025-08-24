@@ -1,0 +1,107 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color:#003366;
+    color: aliceblue;
+
+}
+
+.menu a{
+    color: aliceblue;
+	text-decoration:none;
+
+}
+
+.menu ul{
+    list-style:none;
+	display:flex;
+	gap:1.5rem;
+
+}
+.logo{
+    display: flex;
+    align-items:center;
+    gap:10px	
+}
+.logo-img{
+     height:50px;
+	 width: 50px;
+	 border-radius:50%;
+	 object-fit:cover;
+	 border:5px;
+	 border-style:solid;
+	 border-color:#6a1b9a;
+	 
+}
+.logo-text{
+     font-size:10px
+}
+.hero{
+    position: relative;
+    background-image: url('https://images.unsplash.com/photo-1524504388940-b1c1722653e1'); /* Chanje pou imaj pa w si ou vle */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;
+}
+.overlay {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   background: rgba(65, 0, 98, 0.5);
+   z-index: 1;
+}
+a:hover{
+     color:rgb(249,9,9);
+}
+.hero-content{
+     position: relative; 
+	 z-index: 1;
+}
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero h2 {
+    font-size: 2rem;
+    color: #f1c40f;
+    margin: 1rem 0;
+}
+
+.hero p {
+    margin: 0.5rem 0;
+    color: #f8f8f8;
+}
+
+/* Buttons */
+.buttons {
+    margin-top: 2rem;
+}
+.container{
+    display:flex;
+	flex-direction:column;
+	justify-content:center;
+	text-align:center;
+	border-radius:50px;
+	align-items:center;
+	padding:30px;
+	margin:10px
+
+}
+.box 1{
+     
+
+}
+
+
+
+
