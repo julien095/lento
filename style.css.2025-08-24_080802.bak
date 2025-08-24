@@ -1,0 +1,64 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color:#003366;
+    color: aliceblue;
+
+}
+
+.menu a{
+    color: aliceblue;
+	text-decoration:none;
+
+}
+
+.menu ul{
+    list-style:none;
+	display:flex;
+	gap:1.5rem;
+
+}
+.logo{
+    display: flex;
+    align-items:center;
+    gap:10px	
+}
+.logo-img{
+     height:50px;
+	 width: 50px;
+	 border-radius:50%;
+	 object-fit:cover;
+	 border:5px;
+	 border-style:solid;
+	 border-color:#6a1b9a;
+	 
+}
+.logo-text{
+     font-size:10px
+}
+.hero{
+      position: relative;
+  background-image: url (https://www.google.com/imgres?q=image%20ecrivain&imgurl=https%3A%2F%2Fmetiers-du-livre.fr%2Fwp-content%2Fuploads%2F2017%2F11%2FM2-metiers-du-livre-auteur-ecrivain.png&imgrefurl=https%3A%2F%2Fmetiers-du-livre.fr%2Fle-metier-dauteurecrivain%2F&docid=TFq7ti-3l0tOEM&tbnid=W1AaFnRa7_fb6M&vet=12ahUKEwjtg_TU-aGPAxVbVTABHTapALEQM3oECBMQAA..i&w=736&h=720&hcb=2&ved=2ahUKEwjtg_TU-aGPAxVbVTABHTapALEQM3oECBMQAA); /* Chanje pou imaj pa w si ou vle */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+
+
+}
+
+
+
+
+
+
+
+a:hover{
+     color:rgb(249,9,9);
+}
